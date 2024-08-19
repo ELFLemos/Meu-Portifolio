@@ -14,3 +14,12 @@
   <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 		
 </head>
+
+
+<!--  Comandos git para clonar e fazer o gerenciamneto de versoes -->
+PS C:\Users\Dell\OneDrive\Academica\UniLicungo\2024\2ºSEM\HTML5\Portifolio> git init (inicializa ou git)
+PS C:\Users\Dell\OneDrive\Academica\UniLicungo\2024\2ºSEM\HTML5\Portifolio> git add . (prepara os arquivos para serem comitados)
+PS C:\Users\Dell\OneDrive\Academica\UniLicungo\2024\2ºSEM\HTML5\Portifolio> git config --global user.email "egaslemos@gmail.com" (indicar a cota de email)               
+PS C:\Users\Dell\OneDrive\Academica\UniLicungo\2024\2ºSEM\HTML5\Portifolio> git config --global user.name "Egas Lemos" (indicar e username)
+PS C:\Users\Dell\OneDrive\Academica\UniLicungo\2024\2ºSEM\HTML5\Portifolio> git commit -m "primeiro commit" (fazer o primeito commit)
+PS C:\Users\Dell\OneDrive\Academica\UniLicungo\2024\2ºSEM\HTML5\Portifolio> git status (ver se exixte alguma alteracao e em que ramal estamos)
