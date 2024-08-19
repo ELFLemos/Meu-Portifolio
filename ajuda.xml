@@ -23,3 +23,4 @@ PS C:\Users\Dell\OneDrive\Academica\UniLicungo\2024\2ºSEM\HTML5\Portifolio> git
 PS C:\Users\Dell\OneDrive\Academica\UniLicungo\2024\2ºSEM\HTML5\Portifolio> git config --global user.name "Egas Lemos" (indicar e username)
 PS C:\Users\Dell\OneDrive\Academica\UniLicungo\2024\2ºSEM\HTML5\Portifolio> git commit -m "primeiro commit" (fazer o primeito commit)
 PS C:\Users\Dell\OneDrive\Academica\UniLicungo\2024\2ºSEM\HTML5\Portifolio> git status (ver se exixte alguma alteracao e em que ramal estamos)
+PS C:\Users\Dell\OneDrive\Academica\UniLicungo\2024\2ºSEM\HTML5\Portifolio> git add index.html (adiciona as alteracoes do file ajuda.xml)
