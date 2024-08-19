@@ -25,3 +25,10 @@ PS C:\Users\Dell\OneDrive\Academica\UniLicungo\2024\2ºSEM\HTML5\Portifolio> git
 PS C:\Users\Dell\OneDrive\Academica\UniLicungo\2024\2ºSEM\HTML5\Portifolio> git status (ver se exixte alguma alteracao e em que ramal estamos)
 PS C:\Users\Dell\OneDrive\Academica\UniLicungo\2024\2ºSEM\HTML5\Portifolio> git add index.html (adiciona as alteracoes do file ajuda.xml)
 PS C:\Users\Dell\OneDrive\Academica\UniLicungo\2024\2ºSEM\HTML5\Portifolio> git diff (ver as diferentes aslteracoes feitas nos files)
+PS C:\Users\Dell\OneDrive\Academica\UniLicungo\2024\2ºSEM\HTML5\Portifolio> git restore ajuda.xml (restaurar o file sem fazer o comit das alteracoes)
+PS C:\Users\Dell\OneDrive\Academica\UniLicungo\2024\2ºSEM\HTML5\Portifolio> git branch (verifica em que ramal estamos)
+PS C:\Users\Dell\OneDrive\Academica\UniLicungo\2024\2ºSEM\HTML5\Portifolio> git checkout -b colegaB (sair da branch master e criar uma nova denominada 'colegaB')
+PS C:\Users\Dell\OneDrive\Academica\UniLicungo\2024\2ºSEM\HTML5\Portifolio> git checkout master (sai do ramal 'colegaB' e retorna ao '*master')
+vamos 
+linkar 
+ao coega B
